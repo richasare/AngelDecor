@@ -13,18 +13,18 @@ div#ligne{
 
 }
 cadre {
-    border-radius: 5px 10px 0 5px;
+    border-radius: 5px 10px 10px 5px;
     background-color: rgb(0, 0, 0);
     width:683.5px;
     height:475.563px;
     display:inline-block;
     opacity:0.5;
+  
   }
   cadre2{
-    
+
     width:683.5px;
     height:475.563px;
     display:inline-block;
-    
+
   }
-  
