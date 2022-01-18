@@ -28,29 +28,6 @@ class="d-flex justify-content-center justify-content-lg-between p-4 border-botto
        Spécialisée dans la pose et la restauration de parquets de haute qualité, Angels Décor est une jeune société composée de professionnels expérimentés et passionnés menés par Angel Tonev.
      </p>
    </div>
-   <!-- Grid column -->
-
-   <!-- Grid column -->
-   <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
-     <!-- Links -->
-     <h6 class="text-uppercase fw-bold mb-4">
-       Liens
-     </h6>
-     <p>
-       <a href="#!" class="text-reset">Accueil</a>
-     </p>
-     <p>
-       <a href="#!" class="text-reset">Contact</a>
-     </p>
-     <p>
-       <a href="#!" class="text-reset">Mentions légales</a>
-     </p>
-     <p>
-       <a href="#!" class="text-reset">Horaires</a>
-     </p>
-
-   </div>
-   <!-- Grid column -->
 
    <!-- Grid column -->
    <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
@@ -58,12 +35,12 @@ class="d-flex justify-content-center justify-content-lg-between p-4 border-botto
      <h6 class="text-uppercase fw-bold mb-4">
        Contact
      </h6>
-     <p><i class="fas fa-home me-3"></i> 11, rue Jean-Baptiste Clément 93310 Le Pré-Saint-Gervais - France</p>
+     <p><i class="fas fa-home me-3"></i> 29 RTE DE VERSAILLES 78560 LE PORT-MARLY</p>
      <p>
        <i class="fas fa-envelope me-3"></i>
        info@angels-decor.com
      </p>
-     <p><i class="fas fa-phone me-3"></i> +33 (0) 659 739 475</p>
+     <p><i class="fas fa-phone me-3"></i> +33 (0) 892 976 497</p>
      <p><i class="fas fa-print me-3"></i> +33 (0) 956 497 215</p>
    </div>
    <!-- Grid column -->
