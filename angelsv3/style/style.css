@@ -1,0 +1,31 @@
+hr {
+    border: none;
+    border-top: 5px double rgb(161, 11, 11);
+    color: rgb(161, 11, 11);
+    overflow: visible;
+    text-align: center;
+    height: 10px;
+    opacity: 1;
+}
+div#ligne{
+
+    border-bottom: 5px solid rgb(161, 11, 11);
+
+}
+cadre {
+    border-radius: 5px 10px 10px 5px;
+    background-color: rgb(0, 0, 0);
+    width:683.5px;
+    height:475.563px;
+    display:inline-block;
+    opacity:0.5;
+  
+  }
+  cadre2{
+
+    width:683.5px;
+    height:475.563px;
+    display:inline-block;
+    text-align: center;
+
+  }
