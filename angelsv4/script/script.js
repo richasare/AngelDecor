@@ -13,8 +13,8 @@ function alerte(){
     //var sujet =  ele.getAttribute("value");
     if (nom==""){
         window.alert("Le nom est vide !");
-
-}
+            
+} 
 else if (mail==""){
     window.alert("L'adresse mail est vide !");
         }
@@ -60,12 +60,12 @@ function charge2(){
         }
     var de =  document.getElementById('de');
     var de2 =  document.getElementById('de2');
-
+   
    de.style.opacity =opb;
    //de.style.transform= "translateX("+-(opb*500)+"px)";
    de2.style.opacity =opb;
   // de2.style.transform= "translateX("+opb*500+"px)";
-
+    
     temp.setAttribute('t2',opb);
     return 0;
 }
@@ -78,19 +78,19 @@ function charge3(){
     console.log("opc="+opc);
         }
     var de =  document.getElementById('de3');
-
-
+   
+   
    de3.style.opacity =opc;
-
-
+ 
+    
     temp.setAttribute('t3',opc);
     return 0;
 }
 function navbar(){
-
-
-
-
+        
+    
+ 
+  
     const mouseTarget3 = document.getElementById('de');
     const devimg= document.getElementById('dei');
     const fo= document.getElementById('fo');
@@ -103,12 +103,12 @@ mouseTarget3.addEventListener('mouseenter', e => {
     devimg.setAttribute('src','Images/devis2.png');
     fo.setAttribute('color','#ffffff');
     });
-
+    
     mouseTarget3.addEventListener('mouseleave', e => {
        // mouseTarget3.setAttribute('style','background-color: #ffffff;');
         mouseTarget3.style.backgroundColor ="#ffffff"
         devimg.setAttribute('src','Images/devis.png');
-
+       
         fo.setAttribute('color','#a88230');
     });
     window.addEventListener('scroll', function(){

@@ -5,7 +5,6 @@
 include "header.php" ;
 
 
-
 //include("modeles/monPdo.php");
 //include("modeles/Admin.class.php");
 
@@ -26,20 +25,19 @@ switch($uc)
     break;
     case "env" :
         include("vues/accueil.php") ;
-
+        
         $mail = $_POST["mail"];
         $nom = $_POST["nom"];
         $sujet =  $_POST["sujet"];
         $telephone =  $_POST["telephone"];
         include ("envoieMail.php");
-
-        //echo $mail.$telephone.$sujet;
-      //mail($_POST["mail"],"Angels","Bonjour ,".$_POST["nom"]."c'est pour ".$_POST["sujet"]."Votre numero est".$_POST["telephone"]);
+        
+      
 
     break;
 
 
-
+        
 }
 
 include "footer.php" ;
