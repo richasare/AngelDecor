@@ -15,15 +15,15 @@ div#ligne{
 cadre {
     border-radius: 5px 10px 10px 5px;
     background-color: rgb(0, 0, 0);
-    width:683.5px;
+    width:55vw;
     height:475.563px;
     display:inline-block;
     opacity:0.5;
-  
+
   }
   cadre2{
 
-    width:683.5px;
+    width:55vw;
     height:475.563px;
     display:inline-block;
     text-align: center;
@@ -36,5 +36,5 @@ cadre {
     height:60vh;
     display:inline-block;
     opacity:0.5;
-  
+
   }

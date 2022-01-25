@@ -15,11 +15,11 @@
 	<link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="style/style.css">
 </head>
-<body>
+<body style="overflow-x: hidden;">
 <script src="script/script.js"></script>
 
-<div  style="border-bottom: 3px solid #a88230;">
-  
+<div  style="border-bottom: 3px solid #a88230;width:100vw;box-sizing:none">
+
 </div>
 
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
