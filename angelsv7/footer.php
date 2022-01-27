@@ -22,11 +22,14 @@ class="d-flex justify-content-center justify-content-lg-between p-4 border-botto
    <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
      <!-- Content -->
      <h6 class="text-uppercase fw-bold mb-4">
-       <i class="fas fa-gem me-3"></i>Angels Decor
+       <!-- <i class="fas fa-gem me-3"></i>Angels Decor -->
      </h6>
-     <p>
+
+     <img src="Images\logo.png" width="185px" alt="" style="text-align:center; display:auto; margin-left:auto; margin-right:auto;width:65%;" >
+
+     <!--<p>
        Spécialisée dans la pose et la restauration de parquets de haute qualité, Angels Décor est une jeune société composée de professionnels expérimentés et passionnés menés par Angel Tonev.
-     </p>
+     </p>-->
    </div>
 
    <!-- Grid column -->
@@ -36,12 +39,13 @@ class="d-flex justify-content-center justify-content-lg-between p-4 border-botto
        Contact
      </h6>
      <p><i class="fas fa-home me-3"></i> 29 RTE DE VERSAILLES 78560 LE PORT-MARLY</p>
-     <p>
-       <i class="fas fa-envelope me-3"></i>
-       info@angels-decor.com
-     </p>
-     <p><i class="fas fa-phone me-3"></i> +33 (0) 892 976 497</p>
-     <p><i class="fas fa-print me-3"></i> +33 (0) 956 497 215</p>
+     <!-- <p><i class="fas fa-envelope me-3" ></i>info@angels-decor.com</p> -->
+     <a class="fas fa-home me-3" href="mailto:info-angelsdecor.com" style="color:grey;"> info@angels-decor.com</a>
+     <br>
+     <br>
+     <!--<p><i class="fas fa-phone me-3"></i> +33 (0) 892 976 497</p>-->
+     <!-- <p><i class="fas fas fa-phone me-3" href="+33892976497"></i> +33 (0) 892 976 497</p> -->
+     <a class="fas fa-phone me-3" href="tel:+33892976497" style="color:grey;">  +33 (0) 892 976 497 </a>
    </div>
    <!-- Grid column -->
  </div>
@@ -64,6 +68,6 @@ class="d-flex justify-content-center justify-content-lg-between p-4 border-botto
 
 	<script src="bootstrap-auto-dismiss-alert.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
- 
+
 
 	</body>

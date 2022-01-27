@@ -1,4 +1,6 @@
+<script>NavCache();</script>
 <script>bois();</script>
+
 <div class="row" style="text-align: center;display:flow;height:5vh;background-color:#ffffff">
 
 <img src='Images/logo.png' style="width:40vw;height:12vh;"  >

@@ -13,12 +13,19 @@
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 	<link rel="icon" type="image/png" href="images/candy.png" />
 	<link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="style/style.css">
-  <link rel="stylesheet" href="style/style2.css">
+
+  <link rel="stylesheet" href="style/style3.css">
 </head>
 <body id="bo"style="overflow-x: hidden;">
 <script src="script/script.js"></script>
+  <!--<div class="" id="navnav">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light" >
+      <img src="Images\logo.png" width="185px" alt="" style="text-align:center; display:auto; margin-left:auto; margin-right:auto;width:7%;" >
 
+
+  </div>
+  </nav>
+</div>-->
 <div  style="border-bottom: 3px solid #a88230;width:100vw;box-sizing:none">
 
 </div>

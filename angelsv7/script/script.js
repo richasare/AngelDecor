@@ -1,14 +1,14 @@
 function scroll1(){
     console.log("a");
-    window.scrollTo(0, 400);  
+    window.scrollTo(0, 400);
 }
 function scroll2(){
     console.log("b");
-    window.scrollTo(0, 880);      
+    window.scrollTo(0, 880);
 }
 function scroll3(){
     console.log("c");
-    window.scrollTo(0, 1300);      
+    window.scrollTo(0, 1300);
 }
 function bois(){
 var bo =document.getElementById("bo");
@@ -174,6 +174,12 @@ function RedirectionJavascript(){
 
     document.location.href="index.php?uc=accueilm";
 
+  }
+
 }
+function NavCache(){
+  var nav = document.getElementById("navnav");
+  console.log(nav);
+  nav.hidden=true;
 
 }
