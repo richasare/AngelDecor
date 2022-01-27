@@ -1,0 +1,39 @@
+button {
+    display: inline-block;
+    background-color: #c5841c;
+    border-radius: 25px;
+    border: none;
+    color: #eeeeee;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 25px;
+    }
+button:hover {
+    border: solid #80540d;
+    border-radius: 50px;
+        color: #000000;
+        }
+        .card{border: solid #ffffff;
+            background-color:#6d4e1d;
+            color: #eeeeee;
+            -webkit-transition: all 0.5s;
+            -moz-transition: all 0.5s;
+            -o-transition: all 0.5s;
+            transition: all 0.5s;
+            margin-left: 60px;
+            margin-right: 60px;
+
+
+        }
+.card:hover{
+    border: solid #000000;
+    border-radius: 50px;
+        color: #000000;
+        }
