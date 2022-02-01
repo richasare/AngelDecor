@@ -1,14 +1,14 @@
 function scroll1(){
     console.log("a");
-    window.scrollTo(0, 700);  
+    window.scrollTo(0, 700);
 }
 function scroll2(){
     console.log("b");
-    window.scrollTo(0, 1180);      
+    window.scrollTo(0, 1180);
 }
 function scroll3(){
     console.log("c");
-    window.scrollTo(0, 1500);      
+    window.scrollTo(0, 1500);
 }
 function bois(){
 var bo =document.getElementById("bo");

@@ -25,14 +25,14 @@ switch($uc)
     break;
     case "env" :
         include("vues/accueil2.php") ;
-        
+
         $mail = $_POST["mail"];
         $nom = $_POST["nom"];
         $sujet =  $_POST["sujet"];
         $telephone =  $_POST["telephone"];
         include ("envoieMail.php");
-        
-      
+
+
 
     break;
     case "accueilm" :
@@ -40,21 +40,21 @@ switch($uc)
     break;
     case "envm" :
         include("vues/accueilm.php") ;
-        
+
         $mail = $_POST["mail"];
         $nom = $_POST["nom"];
         $sujet =  $_POST["sujet"];
         $telephone =  $_POST["telephone"];
         include ("envoieMail.php");
-        
-      
+
+
 
     break;
 
 
 
-        
+
 }
 
-include "footer.php" ;
+include "footer3.php" ;
 ?>

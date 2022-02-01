@@ -45,10 +45,10 @@ class="d-flex justify-content-center justify-content-lg-between p-4 border-botto
    </div>
    <!-- Grid column -->
  </div>
- <!-- Grid row -->
+ 
 </div>
 </section>
-<!-- Section: Links  -->
+
 
 <!-- Copyright -->
 <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
@@ -64,6 +64,6 @@ class="d-flex justify-content-center justify-content-lg-between p-4 border-botto
 
 	<script src="bootstrap-auto-dismiss-alert.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
- 
+
 
 	</body>

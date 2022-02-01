@@ -16,9 +16,9 @@
  <div style="z-index:4;position:absolute">
  <br>
         <br>
- 
+
     <cadre2 id="cd10" style="width:100vw;text-align:center" >
-   
+
     <br>
     <br>
     <br>
@@ -27,8 +27,8 @@
     <br>
     <br>
     <br>
-    <div class="" style="background-color:black;opacity:0.75; width:72vw; height:225px; display:inline-block;">  
-    </div>   
+    <div class="" style="background-color:black;opacity:0.75; width:72vw; height:225px; display:inline-block;">
+    </div>
     </cadre2>
  </div>
  <div style="z-index:5;position:absolute; text-align:center; " >
@@ -75,7 +75,7 @@
 <br>
 <div class="container"style="padding-left:0;margin-left:0;" >
 <div style="z-index:2;position:absolute">
-    <cadre id="cd0"style="width:100vw;height:460px;background-color:#6d4e1d;opacity:1">
+    <cadre id="cd0"style="width:100vw;height:460px;background-color:#eae7e7;opacity:1">
 
 </div>
 
@@ -90,31 +90,31 @@
   <img src="Images/galerie3.png" class="card-img-top" alt="..."style="width:50%;height:50%">
   <div class="card-body">
     <h5 class="card-title">Galerie</h5>
-    
-    
+
+
   </div>
 </div>
 </a>
 
-<div class="card" style="width: 28rem;">
+<div class="card" style="width: 28rem; ">
   <img src="Images/devis2.png" class="card-img-top" alt="..."style="width:50%;height:50%">
   <div class="card-body">
     <h5 class="card-title">Devis(Sous 24H!!)</h5>
-    
-    
+
+
   </div>
 </div>
-  
-        
-        
+
+
+
     </cadre2>
 
 
 
 
-</div>    
+</div>
 
-</div>   
+</div>
 <br>
 <br>
 <br>
@@ -143,17 +143,20 @@
  <div style="z-index:4;position:absolute">
  <br>
         <br>
-        
 
-    <cadre2 id="cd10" style="width:50vw;text-align:center" >
-          <!--LES AVIS GOOGLE-->
-          <script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-daa2c6f8-cbab-4935-8fd5-3b8b5adca3e4"style="margin-left:500px;width:50vw"></div>
-      <!--FIN les AVIS GOOGLE-->
-        
-        
-    </cadre2>
-    
+
+        <div class="container" style="padding-left:425px;">
+          <cadre2 id="cd10" style="width:50vw;text-align:center; height:75vw;"  >
+                <!--LES AVIS GOOGLE-->
+                <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+                <div class="elfsight-app-daa2c6f8-cbab-4935-8fd5-3b8b5adca3e4"></div>
+                <!--FIN les AVIS GOOGLE-->
+
+
+          </cadre2>
+        </div>
+
+
  </div>
 </div>
 <br>
