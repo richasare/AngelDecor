@@ -10,7 +10,7 @@
         <ul class="list-unstyled mb-0">
           <li>
             <!-- <a href="#!" class="text-dark">Link 1</a> -->
-            <img src="Images\logo.png" width="100px" alt="" style="text-align:center; display:auto; margin-left:auto; margin-right:auto;width:65%;" >
+            <img src="Images\logo_angel.png" width="100px" alt="" style="text-align:center; display:auto; margin-left:auto; margin-right:auto;width:65%;" >
 
           </li>
           <!-- <li>
