@@ -113,13 +113,13 @@ function charge3(){
 }
 function navbar(){
 
- 
+
 
 
     const mouseTarget3 = document.getElementById('cr2');
     console.log(mouseTarget3)
     const devimg= document.getElementById('dei');
-    
+
     const mouseTarget4 = document.getElementById('cr1');
     const galimg= document.getElementById('gal');
 
@@ -127,19 +127,19 @@ function navbar(){
 
 mouseTarget3.addEventListener('mouseenter', e => {
     //mouseTarget3.setAttribute('style','background-color: #a88230;');
-   
+
     devimg.setAttribute('src','Images/devis4.png');
-    
+
     });
 
     mouseTarget3.addEventListener('mouseleave', e => {
        // mouseTarget3.setAttribute('style','background-color: #ffffff;');
-        
+
         devimg.setAttribute('src','Images/devis2.png');
 
-       
+
     });
-   
+
     mouseTarget4.addEventListener('mouseenter', e => {
 
         galimg.setAttribute('src','Images/galerie4.png');
@@ -150,6 +150,18 @@ mouseTarget3.addEventListener('mouseenter', e => {
             galimg.setAttribute('src','Images/galerie3.png');
 
         });;
+        window.addEventListener('scroll', function(){
+      scrollvalue=(window.innerHeight+window.scrollY)/(this.document.body.offsetHeight);
+      console.log("s="+scrollvalue);
+    if(scrollvalue>0.5995559890677667&&scrollvalue<0.8061836743370289){
+      lg=document.getElementById("lg");
+      lg.setAttribute("src","Images/logo6.png");
+    }else{
+      g=document.getElementById("lg");
+      lg.setAttribute("src","Images/logo6.png");
+    }
+
+  });
 
 
 }

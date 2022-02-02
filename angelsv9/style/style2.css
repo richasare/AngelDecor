@@ -1,8 +1,9 @@
 button {
     display: inline-block;
     background-color: #6d4e1d;
-    border-radius: 25px;
-    border: none;
+    border-radius: 50px;
+    border-color: grey;
+
     color: #eeeeee;
     text-align: center;
     font-size: 28px;
@@ -13,29 +14,35 @@ button {
     -o-transition: all 0.5s;
     transition: all 0.5s;
     cursor: pointer;
-    margin: 25px;
+    margin-top: 60px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    box-shadow: 5px 5px 5px black;
     }
 button:hover {
-    
-    border-radius: 50px;
-        color: #6d4e1d;
-        background-color: #eeeeee;
-        }
-        .card{
-            background-color:#6d4e1d;
-            color: #eeeeee;
-            -webkit-transition: all 0.5s;
-            -moz-transition: all 0.5s;
-            -o-transition: all 0.5s;
-            transition: all 0.5s;
-            margin-left: 60px;
-            margin-right: 60px;
+
+    color: #6d4e1d;
+    background-color: #eeeeee;
+}
+
+.card{
+  border-radius: 50px;
+  border-color: #000000;
+  background-color:#6d4e1d;
+  color: #eeeeee;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+  margin-left: 60px;
+  margin-right: 60px;
+}
 
 
-        }
 .card:hover{
-    
-    border-radius: 50px;
+
     background-color:#eeeeee;
-        color: #6d4e1d;
+    border-color: #000000;
+    color: #6d4e1d;
         }

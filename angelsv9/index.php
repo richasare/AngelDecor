@@ -22,10 +22,11 @@ switch($uc)
 {
     case "accueil" :
         include("vues/accueil2.php") ;
+        include "footer3.php" ;
     break;
     case "env" :
         include("vues/accueil2.php") ;
-
+        include "footer3.php" ;
         $mail = $_POST["mail"];
         $nom = $_POST["nom"];
         $sujet =  $_POST["sujet"];
@@ -37,9 +38,11 @@ switch($uc)
     break;
     case "accueilm" :
         include("vues/accueilm.php") ;
+        include "footer.php" ;
     break;
     case "envm" :
         include("vues/accueilm.php") ;
+        include "footer.php" ;
 
         $mail = $_POST["mail"];
         $nom = $_POST["nom"];
@@ -56,5 +59,5 @@ switch($uc)
 
 }
 
-include "footer3.php" ;
+
 ?>

@@ -45,7 +45,7 @@ class="d-flex justify-content-center justify-content-lg-between p-4 border-botto
      <br>
      <!--<p><i class="fas fa-phone me-3"></i> +33 (0) 892 976 497</p>-->
      <!-- <p><i class="fas fas fa-phone me-3" href="+33892976497"></i> +33 (0) 892 976 497</p> -->
-     <a class="fas fa-phone me-3" href="tel:+33892976497" style="color:grey;">  +33 (0) 892 976 497 </a>
+     <a class="fas fa-phone me-3" href="tel:+33659739475" style="color:grey;">  06 59 73 94 75 </a>
    </div>
    <!-- Grid column -->
  </div>
