@@ -3,7 +3,7 @@ button {
     background-color: #6d4e1d;
     border-radius: 50px;
     border-color: grey;
-
+    background-image: url("../Images/fondb.jpg");
     color: #eeeeee;
     text-align: center;
     font-size: 28px;
@@ -21,12 +21,13 @@ button {
     box-shadow: 5px 5px 5px black;
     }
 button:hover {
-
+    background-image: none;
     color: #6d4e1d;
     background-color: #eeeeee;
 }
 
 .card{
+  background-image: url("../Images/fondb.jpg");
   border-radius: 50px;
   border-color: #000000;
   background-color:#6d4e1d;
@@ -41,7 +42,7 @@ button:hover {
 
 
 .card:hover{
-
+background-image: none;
     background-color:#eeeeee;
     border-color: #000000;
     color: #6d4e1d;
