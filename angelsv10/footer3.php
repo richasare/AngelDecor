@@ -2,7 +2,7 @@
   <!-- Grid container -->
   <div>
     <!--Grid row-->
-    <div class="row"style="height:90%">
+    <div class="row"style="height:100%">
       <!--Grid column-->
       <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
         <!-- <h5 class="text-uppercase">Links</h5> -->
@@ -10,7 +10,7 @@
         <ul class="list-unstyled mb-0">
           <li>
             <!-- <a href="#!" class="text-dark">Link 1</a> -->
-            <img src="Images\logo5.png" width="100px" alt="" style="text-align:center; display:auto; margin-left:10%; width:45%;" >
+            <img src="Images\logo5.png" width="100px" alt="" style="text-align:center; display:auto; margin-left:25%; width:41%;" >
 
           </li>
           <!-- <li>

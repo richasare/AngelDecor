@@ -4,18 +4,14 @@
 
 
 <!-- Footer -->
-<footer class="text-center text-lg-start bg-light text-muted"style="position:absolute;z-index:4;width:100vw">
+<footer class=" text-lg-start bg-light text-muted"style="z-index:4;width:100vw;">
 <!-- Section: Social media -->
-<section
-class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom"
->
 
-</section>
 <!-- Section: Social media -->
 
 <!-- Section: Links  -->
 <section class="">
-<div class="container text-center text-md-start mt-5">
+<div class="container text-center text-md-start">
  <!-- Grid row -->
  <div class="row mt-3">
    <!-- Grid column -->
@@ -25,7 +21,7 @@ class="d-flex justify-content-center justify-content-lg-between p-4 border-botto
        <!-- <i class="fas fa-gem me-3"></i>Angels Decor -->
      </h6>
 
-     <img src="Images\logo.png" width="185px" alt="" style="text-align:center; display:auto; margin-left:auto; margin-right:auto;width:65%;" >
+     <img src="Images\logo.png" width="170px" alt="" style="text-align:center; display:auto; margin-left:10px; margin-right:10px;" >
 
      <!--<p>
        Spécialisée dans la pose et la restauration de parquets de haute qualité, Angels Décor est une jeune société composée de professionnels expérimentés et passionnés menés par Angel Tonev.
@@ -33,14 +29,14 @@ class="d-flex justify-content-center justify-content-lg-between p-4 border-botto
    </div>
 
    <!-- Grid column -->
-   <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+   <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4" style="">
      <!-- Links -->
      <h6 class="text-uppercase fw-bold mb-4">
        Contact
      </h6>
      <p><i class="fas fa-home me-3"></i> 29 RTE DE VERSAILLES 78560 LE PORT-MARLY</p>
      <!-- <p><i class="fas fa-envelope me-3" ></i>info@angels-decor.com</p> -->
-     <a class="fas fa-home me-3" href="mailto:info-angelsdecor.com" style="color:grey;"> info@angels-decor.com</a>
+     <a class="fas fa-envelope me-3" href="mailto:info-angelsdecor.com" style="color:grey;"> info@angels-decor.com</a>
      <br>
      <br>
      <!--<p><i class="fas fa-phone me-3"></i> +33 (0) 892 976 497</p>-->
