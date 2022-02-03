@@ -28,9 +28,7 @@ style="background-color:#ffffff"
 
 
 
-              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span aria-hidden="true">&times;</span>
-              </button>
+
             </div>
             <div class="modal-body">
               <form method="POST" action="index.php?uc=envm" id="formu">
@@ -54,7 +52,7 @@ style="background-color:#ffffff"
             </div>
             <div class="modal-footer">
               <!--<button type="button" class="btn btn-secondary" data-dismiss="modal">Fermer</button>-->
-              <button  class="btn btn-warning" type="button" onclick="alerte()" >Envoi</button>
+              <button  class="btn btn-warning" style="color:#FFFFFF" type="button" onclick="alerte()" >Envoi</button>
 
             </div>
           </div>
@@ -63,7 +61,7 @@ style="background-color:#ffffff"
       <!--ICI SE FINIT LE POP UP-->
 
 
-    <p style="text-align: center"><font id="fo"size="2" color="#ffffff" >VOTRE DEVIS </font><font id="fo"size="0.5" color="#ffffff" ><br>en moins de 24H </font></p>
+    <p style="text-align: center"><font id="fo"size="2" color="#ffffff" >VOTRE DEVIS </font><font id="fo"size="1,75" color="#ffffff" ><br>en moins de 24H </font></p>
     </div>
 
 

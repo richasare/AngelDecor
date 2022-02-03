@@ -21,11 +21,11 @@ else {
 switch($uc)
 {
     case "accueil" :
-        include("vues/accueil2.php") ;
+        include("vues/accueil3.php") ;
         include "footer3.php" ;
     break;
     case "env" :
-        include("vues/accueil2.php") ;
+        include("vues/accueil3.php") ;
         include "footer3.php" ;
         $mail = $_POST["mail"];
         $nom = $_POST["nom"];

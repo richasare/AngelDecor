@@ -152,7 +152,7 @@
         </div>
         <div class="modal-footer">
           <!--<button type="button" class="btn btn-secondary" data-dismiss="modal">Fermer</button>-->
-          <button  class="btn btn-warning" type="button" onclick="alerte()" >Envoi</button>
+          <button  class=""style="" type="button" onclick="alerte()" >Envoi</button>
 
         </div>
       </div>

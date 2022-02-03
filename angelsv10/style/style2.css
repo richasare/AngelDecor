@@ -27,6 +27,7 @@ button:hover {
 }
 
 .card{
+  cursor: pointer;
   background-image: url("../Images/fondb.jpg");
   border-radius: 50px;
   border-color: #000000;
@@ -42,6 +43,7 @@ button:hover {
 
 
 .card:hover{
+  cursor: pointer;
 background-image: none;
     background-color:#eeeeee;
     border-color: #000000;

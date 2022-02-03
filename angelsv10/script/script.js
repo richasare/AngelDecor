@@ -150,18 +150,7 @@ mouseTarget3.addEventListener('mouseenter', e => {
             galimg.setAttribute('src','Images/galerie3.png');
 
         });;
-        window.addEventListener('scroll', function(){
-      scrollvalue=(window.innerHeight+window.scrollY)/(this.document.body.offsetHeight);
-      console.log("s="+scrollvalue);
-    if(scrollvalue>0.5995559890677667&&scrollvalue<0.8061836743370289){
-      lg=document.getElementById("lg");
-      lg.setAttribute("src","Images/logo6.png");
-    }else{
-      g=document.getElementById("lg");
-      lg.setAttribute("src","Images/logo6.png");
-    }
-
-  });
+        
 
 
 }
