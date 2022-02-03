@@ -33,11 +33,35 @@
   </a>
 </div>
 <!-- Fin bouton devis/galerie -->
+
+<!-- Debut bouton appel -->
 <div style="margin-top:500px;position:absolute;z-index:6">
-<a  href="tel:+33659739475" >
-<button type="button"style="width:30vw;margin-left:35vw"><i class="fas fa-phone me-3"  style="font-size: 1.2em;">  06 59 73 94 75</i></button>
-</a>
+  <a  href="tel:+33659739475" >
+    <button type="button"style="width:30vw;margin-left:35vw"><i class="fas fa-phone me-3"  style="font-size: 1.2em;">  06 59 73 94 75</i></button>
+  </a>
 </div>
-<div style="margin-top:600px;position:absolute;z-index:1;height:600px;width:100vw;background-color:grey;">
+<!-- Fin bouton appel -->
+
+<!-- Debut du cadre gris -->
+<div style="margin-top:700px;position:absolute;z-index:1;height:700px;width:100vw;background-color:grey; ">
+  <div class="container" style="padding-left:55px; padding-top:70px;">
+    <cadre2 id="cd10" style="width:70vw;text-align:center; height:100px;">
+        <!--LES AVIS GOOGLE-->
+        <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+        <div class="elfsight-app-daa2c6f8-cbab-4935-8fd5-3b8b5adca3e4"></div>
+        <!--FIN les AVIS GOOGLE-->
+    </cadre2>
+  </div>
+
 </div>
+<!-- Fin du cadre gris -->
+
+<!-- Debut du cadre: A propos de nous -->
+<div style="margin-top:1200px;position:absolute;z-index:1;height:500px;width:100vw;background-color:#FFFFFF;">
+  <h1 style="text-align:center; text-shadow:2px 3px 1px black;color:white; margin-top:60px;">A propos de nous</h1>
+   <cadre2 id="cd10" style="width:100vw;text-align:center" >
+     <h3 style="opacity:1; width:70vw; color:white;margin-left:15vw;text-shadow:2px 3px 1px black; margin-top:80px;">Spécialisée dans la pose et la restauration de parquets de haute qualité, Angels Décor est une jeune société composée de professionnels expérimentés et passionnés menés par Angel Tonev. Notre exigence de produire chaque fois un travail d'exception nous vaut la satisfaction de nos clients et la reconnaissance de nos paires. Basée au Pré-Saint-Gervais (93), notre champ d'action s'étend à toute la France et au-delà.</h3>
+   </cadre2>
+</div>
+<!-- Fin du cadre: A propos de nous -->
 <script>navbar();</script>
