@@ -53,18 +53,18 @@
 </div>
         <!--FIN les AVIS GOOGLE-->
     </cadre2>
-  
+
 
 
 <!-- Fin du cadre gris -->
 
 <!-- Debut du cadre: A propos de nous -->
 <div style="margin-top:1200px;position:absolute;z-index:1;height:500px;width:100vw;background-color:#FFFFFF;"></div>
-<div style='position:absolute;z-index:6;margin-top:1300px;text-align:center;width:70vw;margin-left:7vw;'>
-  <h1 style="text-align:center; text-shadow:2px 3px 1px black;color:white; margin-top:60px;">A propos de nous</h1>
-  <div style='position:absolute;z-index:6;margin-top:1350px;text-align:center;width:70vw;margin-left:7vw;'>
-     <h3 style="opacity:1; width:70vw; color:white;margin-left:15vw;text-shadow:2px 3px 1px black; margin-top:80px;">Spécialisée dans la pose et la restauration de parquets de haute qualité, Angels Décor est une jeune société composée de professionnels expérimentés et passionnés menés par Angel Tonev. Notre exigence de produire chaque fois un travail d'exception nous vaut la satisfaction de nos clients et la reconnaissance de nos paires. Basée au Pré-Saint-Gervais (93), notre champ d'action s'étend à toute la France et au-delà.</h3>
-     </div>
-</div>
+  <div style='position:absolute;z-index:6;margin-top:1300px;text-align:center;width:70vw;margin-left:125px;'>
+    <h1 style="text-align:center; text-shadow:2px 3px 1px black;color:white; margin-top:5px;margin-left:300px;;">A propos de nous</h1>
+    <div style='position:absolute;z-index:6;margin-top:0px;text-align:center;width:70vw;margin-left:125px;'>
+     <h3 style="opacity:1; width:70vw; color:white;text-shadow:2px 3px 1px black; ">Spécialisée dans la pose et la restauration de parquets de haute qualité, Angels Décor est une jeune société composée de professionnels expérimentés et passionnés menés par Angel Tonev. Notre exigence de produire chaque fois un travail d'exception nous vaut la satisfaction de nos clients et la reconnaissance de nos paires. Basée au Pré-Saint-Gervais (93), notre champ d'action s'étend à toute la France et au-delà.</h3>
+    </div>
+  </div>
 <!-- Fin du cadre: A propos de nous -->
 <script>navbar();</script>
